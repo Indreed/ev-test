@@ -4,7 +4,7 @@
   "theme_color": "#13b080",
   "background_color": "#fff",
   "display": "standalone",
-  "scope": "/",
+  "scope": "/ev-test/",
   "start_url": "/ev-test/",
   "icons": [
     {
