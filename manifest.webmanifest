@@ -5,7 +5,7 @@
   "background_color": "#fff",
   "display": "standalone",
   "scope": "/",
-  "start_url": "/",
+  "start_url": "/ev-test/",
   "icons": [
     {
       "src": "assets/pwa-icons/icon-72x72.png",
